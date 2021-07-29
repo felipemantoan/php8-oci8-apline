@@ -1,4 +1,6 @@
-# Requirements
+# PHP 8 + OCI 8
+
+## Requirements
 - [Docker](https://docs.docker.com/engine/install/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
